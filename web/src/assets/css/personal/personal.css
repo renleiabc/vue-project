@@ -1,0 +1,78 @@
+/*个人中心*/
+.personal-logo {
+  height: 42px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.personal-logo a {
+  display: inline-block;
+  height: 42px;
+}
+
+.personal-logo img {
+  width: 120px;
+  height: 42px;
+}
+
+/*布局样式*/
+
+.personal-nav .el-menu {
+  border: none;
+}
+
+.personal-nav .el-menu-item {
+  height: 30px;
+  line-height: 30px;
+  min-width:0px;
+  width: 80%;
+  border-radius: 5px;
+}
+.personal-nav .el-menu-item.is-active {
+  color: #669934;
+}
+.personal-nav .el-menu-item:focus, .personal-nav .el-menu-item:hover {
+  color: #669934 !important;
+  background: #fff !important;
+}
+
+.personal-base{
+  margin-bottom: 100px;
+}
+.personal-base li{
+  display: none;
+}
+.personal-base li:first-child{
+  display:block;
+}
+
+.personal-edge, .personal-side {
+  float: left;
+  width: 48%;
+}
+
+.personal-side {
+  margin-left: 4%;
+}
+
+.personal-input {
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+
+
+.button-new-tag {
+  margin-left: 10px;
+  height: 32px;
+  line-height: 30px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.personal-small{
+  display: block;
+  height: 30px;
+  line-height: 30px;
+  font-size: 12px;
+  color: rgba(38, 38, 38, 0.6);
+}
+

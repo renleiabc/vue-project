@@ -1,0 +1,417 @@
+.linksty{
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 22px;
+  letter-spacing: 0px;
+  color: #669934;
+}
+.currentPage{
+  color: #000;
+}
+.link{
+  cursor: pointer;
+}
+.link:hover{
+  color: #61b977;
+}
+.breadcrumb{
+  width: 1180px;
+  margin: 0 auto;
+}
+.box-top{
+  margin-top: 20px;
+  width: 100%;
+  background-color: #000000;
+  padding: 30px 0;
+}
+.video-js .vjs-big-play-button{
+  /*
+   播放按钮换成圆形
+  */
+  height: 2em;
+  width: 2em;
+  line-height: 2em;
+  border-radius: 1em;
+}
+.controlVideo{
+  width: 1000px;
+  margin: 0px auto;
+}
+.box-title{
+  height: 324px;
+  background-color: #383838;
+}
+.box-title-content{
+  width: 1000px;
+  height: 100%;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.title-info{
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 22px;
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+
+.title1{
+  font-family: MicrosoftYaHei-Bold;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #ffffff;
+  margin-top: 10px;
+}
+.title2{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, .5);
+  display: inline-block;
+  width: 750px;
+  margin-top: 40px;
+  text-align: justify;
+}
+.title2+img{
+  float: right;
+}
+.title3{
+  margin-top: 40px;
+  color: rgba(255, 255, 255, .5);
+  font-size: 12px;
+}
+.title3_img1,.title3_img2{
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  position:relative ;
+
+  border-radius: 36px;
+  cursor: pointer;
+
+}
+.title3_img1{
+  background: #f13729;
+}
+.title3_img2{
+  background: #44c34d;;
+  margin-left: 20px;
+}
+.title3_img1>img,.title3_img2>img{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -9px;
+  margin-left: -11.5px;
+
+}
+.box-content{
+  width: 1000px;
+  margin: 0px auto ;
+  padding-top: 50px;
+
+}
+.box-content-image{
+  width: 80px;
+  height: 80px;
+  border-radius: 80px;
+  margin-top: 20px;
+}
+.box-content-left,.box-content-right{
+  float: left;
+  width: 75%;
+}
+.left-title,.left-middle{
+  width: 100%;
+  float: left;
+  padding-bottom: 50px;
+  border-bottom: 1px solid rgba(199, 199, 199, 1);
+  word-break: break-word;
+}
+.left-middle{
+  margin-top: 50px;
+}
+.left-title>img{
+  float: left;
+}
+.left-title-content{
+  float: left;
+  margin-left: 30px;
+  width: 50%;
+}
+.authorName{
+  margin: 10px 0;
+}
+.author-top{
+  font-family: MicrosoftYaHeiLight;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+
+  letter-spacing: 0px;
+  color: rgba(2, 21, 21, 0.5);
+}
+.authorName>span:first-child{
+  font-family: MicrosoftYaHeiLight;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.authorName>span:last-child{
+  font-family: MicrosoftYaHeiLight;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.author-bottom{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #615e5d;
+  width: 682px
+}
+.info-title{
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #383838;
+  text-align: center;
+}
+.line-Down{
+  color: #aad164;
+  text-align: center;
+  font-weight: bold;
+}
+.small-title {
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #615e5d;
+  border-left: 3px solid #aad164;
+  padding: 0 15px;
+}
+.answer{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  margin-top: 20px;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #615e5d;
+  text-align: justify;
+}
+.tag-text{
+  margin-top: 50px;
+
+}
+.tag-text>span{
+  display: inline-block;
+  padding: 5px;
+  background-color: rgba(197, 223, 149, 0.3);
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #615e5d;
+}
+.tag-text>span:not(:first-child){
+  margin-left: 5px;
+}
+.p1{
+  margin-bottom: 25px;
+}
+.comment{
+  margin: 35px 0;
+  float: left;
+
+}
+.comment>p>span{
+  display: inline-block;
+  position: relative;
+  top: -3px;
+  font-size: 16px;
+}
+.inputBox>textarea{
+  width: 100%!important;
+  height: 100px!important;
+  resize: none;
+  overflow-y:auto;
+  outline:none;
+  padding: 15px;
+  border: 1px solid rgba(199, 199, 199,.5);
+  border-radius: 5px;
+  border-bottom-left-radius:0;
+  border-bottom-right-radius:0;
+  box-sizing: border-box;
+}
+.submitBox{
+
+  padding: 5px 0;
+  background: #f7f7f7;
+  border: 1px solid rgba(199, 199, 199,.5);
+  margin-top: -5px;
+  border-top: 1px solid rgba(199, 199, 199,.5);
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
+  position: relative;
+}
+.submitBox>p:first-child{
+  display: inline-block;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #615e5d;
+  line-height: 30px;
+  margin-left: 15px;
+}
+.submitBox>p:last-child{
+  position: absolute;
+  right: 0;
+  display: inline-block;
+  width: 80px;
+  height: 30px;
+  line-height: 30px;
+  background-color: #262626;
+  cursor: pointer;
+  text-align: center;
+  color: #ffffff;
+  margin-right: 15px;
+}
+.talkList{
+  float: left;
+
+  width: 100%;
+}
+.talkList>div{
+  width: 100%;
+  float: left;
+  border-bottom: 1px dashed  rgba(199, 199, 199, 0.5);
+
+}
+div.talkTitle{
+  width: 100%;
+  float: left;
+}
+.talkList>div>div.talkTitle>p:first-child{
+  float: left;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #615e5d;
+
+}
+.talkList>div>div.talkTitle>p:last-child{
+  float: right;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.5);
+}
+.talkContent{
+  float: left;
+  width: 100%;
+  margin: 25px 0;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+
+  letter-spacing: 0px;
+  color: #262626;
+}
+.left-bottom{
+  float: left;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.box-content-right{
+  float: right;
+  width: 15%;
+  background-color: rgba(199, 199, 199, 0.1);
+  padding: 20px 10px;
+
+}
+.box-content-right-title{
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #262626;
+}
+.box-content-right>ul>li{
+  margin-top: 10px;
+  border-bottom: 1px dashed rgba(199, 199, 199, 0.5);;
+  padding-bottom: 20px;
+}
+.box-content-right>ul>li>P:first-child{
+  text-align: center;
+  margin: 5px 0;
+
+}
+.box-content-right>ul>li>P:nth-child(2){
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 20px;
+  letter-spacing: 0px;
+  color: #262626;
+}
+.box-content-right>ul>li>P:nth-child(3){
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.6)
+}
+.box-content-right>ul>li>P:nth-child(2),.box-content-right>ul>li>P:nth-child(3){
+  padding:0 4px ;
+  margin-top: 5px;
+}
+.voice{
+  width: 120px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -57.5px;
+  margin-left: -77px;
+}
+.player{
+  position: relative;
+}

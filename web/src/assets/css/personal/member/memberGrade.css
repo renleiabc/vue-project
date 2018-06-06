@@ -1,0 +1,81 @@
+/*会员权限*/
+.member-hello{
+  height: 45px;
+  line-height: 45px;
+  font-size: 32px;
+  font-weight: bolder;
+}
+.member-account{
+  height: 30px;
+  line-height: 30px;
+  font-size: 18px;
+  margin-top: 30px;
+  font-family: MicrosoftYaHei;
+}
+.member-grade{
+  width: 100%;
+  overflow: hidden;
+  margin-top: 50px;
+  color: #383838;
+}
+.member-grade>li{
+  float: left;
+  width: 30%;
+}
+.member-grade>li:nth-child(2){
+  margin: 0 5%;
+}
+.member-insider{
+  text-align: center;
+  font-size: 24px;
+  height: 70px;
+  line-height: 70px;
+}
+.member-money{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.member-wan{
+  font-size: 32px;
+  color: #e73140;
+}
+.member-each{
+  color: rgba(56, 56, 56, 0.6);
+  font-size: 18px;
+}
+.member-service{
+  border-left:4px solid #aad164;
+  padding-left:10px;
+  height: 20px;
+  line-height: 20px;
+}
+.member-stage{
+  margin-bottom: 44px;
+}
+.member-stage p{
+  color: rgba(56, 56, 56, 0.6);
+  margin-top: 20px;
+  padding-left:10px;
+}
+.member-project{
+  width:100%;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
+.member-project i{
+  width: 16px;
+  height: 16px;
+  color: #aad164;
+  display: block;
+  float: left;
+  margin-top: 5px;
+  margin-right: 5px;
+  padding-left:10px;
+}
+.member-project span{
+  display: block;
+  float: left;
+  word-wrap: break-word;
+  word-break: normal;
+  width: 85%;
+}

@@ -1,0 +1,198 @@
+/*基本信息样式*/
+.personal-base {
+  width: 100%;
+  overflow: hidden;
+}
+
+.personal-base h1 {
+  margin-bottom: 53px;
+  height: 33px;
+  font-size: 24px;
+  color: rgba(56, 56, 56, 1);
+  line-height: 33px;
+}
+
+.personal-edge, .personal-side {
+  float: left;
+  width: 280px;
+}
+
+.personal-side {
+  margin-left: 20px;
+}
+
+.personal-span {
+  display: block;
+  margin-bottom: 7px;
+  height: 19px;
+  font-size: 14px;
+  color: rgba(56, 56, 56, 1);
+  line-height: 19px;
+}
+
+.el-tag + .el-tag {
+  margin-left: 10px;
+}
+
+.button-new-tag {
+  margin-left: 10px;
+  height: 32px;
+  line-height: 30px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.input-new-tag {
+  width: 90px;
+  margin-left: 10px;
+  vertical-align: bottom;
+}
+
+
+
+.personal-fasten {
+  margin-top: 10px;
+}
+
+.personal-fasten .el-tag--info {
+  margin-bottom: 10px;
+}
+
+.el-tag--info {
+  cursor: pointer;
+}
+
+.personal-small {
+  height: 19px;
+  font-size: 12px;
+  font-family: PingFangSC-Regular;
+  color: rgba(56, 56, 56, 1);
+  line-height: 19px;
+}
+
+.author-basic {
+  width: 100%;
+  overflow: hidden;
+}
+
+.author-inf {
+  float: left;
+}
+
+.author-pic{
+  float: left;
+  text-align: center;
+  position: relative;
+  margin-left: 119px;
+}
+.author-modify {
+  height: 19px;
+  font-size: 14px;
+  color: rgba(56, 56, 56, 1);
+  line-height: 19px;
+  cursor: pointer;
+}
+
+/*上传图片*/
+.cropper-content {
+  display: flex;
+  display: -webkit-flex;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+
+.cropper {
+  width: 350px;
+  height: 300px;
+}
+
+.show-preview {
+  flex: 1;
+  -webkit-flex: 1;
+  display: flex;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+
+.preview {
+  overflow: hidden;
+  border-radius: 50%;
+  border: 1px solid #cccccc;
+  background: #cccccc;
+}
+
+.footer-btn {
+  margin-top: 30px;
+  display: flex;
+  display: -webkit-flex;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+
+.author-btn {
+  width: 100%;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.upload-preview {
+  height: 40px;
+  color: #fff;
+  line-height: 40px;
+  font-size: 16px;
+}
+
+.upload-btn {
+  float: left;
+  margin-left: 20px;
+}
+
+.btn {
+  outline: none;
+  display: inline-block;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  -webkit-appearance: none;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  outline: 0;
+  margin: 0;
+  -webkit-transition: .1s;
+  transition: .1s;
+  font-weight: 500;
+  padding: 8px 15px;
+  font-size: 12px;
+  border-radius: 3px;
+  color: #fff;
+  border-color: #67c23a;
+}
+
+.btn-lime {
+  background-color: #67c23a;
+}
+
+.btn-blue {
+  background-color: blue;
+}
+
+.btn-gray {
+  background-color: orangered;
+}
+
+.upload {
+  display: block;
+  position: absolute;
+  width: 300px;
+  background: rgba(0, 0, 0, 0.5);
+  left: -100px;
+  top: 120px;
+}
+.el-select--select{
+  width: 580px;
+  border-radius: 2px;
+  -moz-border-radius: 2px ;
+  -webkitborder-radius: 2px ;
+}

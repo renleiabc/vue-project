@@ -1,0 +1,424 @@
+.researchDetail-top{
+  width: 100%;
+  padding-bottom: 60px;
+  background-color: #fbfbfc;
+
+}
+.researchDetail-top-auto{
+  width: 1180px;
+  margin: 0 auto;
+}
+.researchDetail-top-auto-left,.researchDetail-top-auto-right{
+  float: left;
+}
+
+.researchDetail-top-auto-left{
+  width: 35%;
+  background-color: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 120px;
+  margin-top: 30px;
+}
+.researchDetail-top-auto-right{
+ width: 46%;
+  padding: 0 50px;
+  margin-top: 70px;
+}
+.researchDetail-top-auto-rightp1{
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 34px;
+  letter-spacing: 0px;
+  color: #383838;
+  text-align: justify;
+  margin-top: 30px;
+}
+.researchDetail-top-auto-rightp2{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #615e5d;
+  text-align: justify;
+  margin-top: 30px;
+}
+.researchDetail-top-auto-rightp3{
+  margin-top: 30px;
+}
+
+.researchDetail-top-auto-rightp3>s{
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 34px;
+  letter-spacing: 0px;
+  color: rgba(56, 56, 56, 0.5);
+}
+.researchDetail-top-auto-rightp3>span{
+  font-family: MicrosoftYaHei;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 34px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.researchDetail-top-auto-rightp4{
+  margin-top: 30px;
+  cursor: pointer;
+}
+.btn-buy{
+  display: inline-block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  background-color: #383838;
+  color: #ffffff;
+  text-align: center;
+  font-size: 16px;
+}
+.UP{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 20px;
+  letter-spacing: 0px;
+  color: #669934;
+  display: inline-block;
+  width: 112px;
+  vertical-align: middle;
+  margin-left: 30px;
+}
+.left-img-left{
+  float: left;
+  margin-left: -120px;
+}
+.left-text-right{
+  float: left;
+  width: 70.9%;
+}
+.left-text-right>p{
+  margin-top: 15.5px;
+  padding-left: 40px;
+}
+.title-type{
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 18px;
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.6);
+}
+.content-text{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 28px;
+  letter-spacing: 0px;
+  color: #262626;
+}
+.download-directory {
+  padding-left: 40px;
+  border-top:1px solid rgba(199, 199, 199, 0.5);
+  cursor: pointer;
+  margin-top: 30px;
+  height: 50px;
+  line-height: 50px;
+}
+.download-report{
+  padding-left: 40px;
+  border-top:1px solid rgba(199, 199, 199, .5);
+  border-bottom: 1px solid rgba(199, 199, 199, .5);
+  cursor: pointer;
+  height: 50px;
+  line-height: 50px;
+}
+.download-directory span,.download-report span{
+  font-family: MicrosoftYaHei;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 50px;
+  letter-spacing: 1px;
+  color: #669934;
+}
+.left-middle{
+  width: 1180px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  border-bottom: 1px solid rgba(199, 199, 199, 1);
+}
+.info-title{
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #383838;
+  text-align: center;
+}
+.line-Down{
+  color: #aad164;
+  text-align: center;
+  font-weight: bold;
+}
+.small-title {
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #615e5d;
+  border-left: 3px solid #aad164;
+  padding: 0 15px;
+}
+.answer{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  margin-top: 20px;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #615e5d;
+  text-align: justify;
+}
+.tag-text{
+  margin-top: 50px;
+
+}
+.tag-text>span{
+  display: inline-block;
+  padding: 5px;
+  background-color: rgba(197, 223, 149, 0.3);
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #615e5d;
+}
+.tag-text>span:not(:first-child){
+  margin-left: 5px;
+}
+.researchDetail-bottom>div{
+  width: 1180px;
+  margin: 30px auto 15px;
+}
+.researchDetail-bottom>div>p{
+  width: 100%;
+  float: left;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+
+  letter-spacing: 0px;
+  color: rgba(56, 56, 56, 0.6);
+}
+
+.researchDetail-bottom>div>div>ul{
+  width: 100%;
+  float: left;
+}
+.researchDetail-bottom>div>div>ul>li{
+  float: left;
+  width: 50%;
+  margin-top: 25px;
+}
+.researchDetail-bottom>div>div>ul>li:hover .list-right>p:nth-child(1){
+color: #61b977;
+}
+.list-left,.list-right{
+  float: left;
+}
+.list-right{
+  margin-left: 25px;
+  width: 75%;
+}
+.list-right>p:nth-child(1){
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #383838;
+  cursor: pointer;
+}
+
+
+
+.list-right>p:nth-child(2){
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 18px;
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.6);
+  margin-top: 30px;
+}
+.list-right>p:nth-child(3){
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 18px;
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.6);
+  margin-bottom: 20px;
+}
+.list-right>p:nth-child(4){
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #ffffff;
+  display: inline-block;
+  width: 140px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background-color: #383838;
+
+  cursor: pointer;
+}
+.QR_titleSTY{
+  display: inline-block;
+  margin-top: 40px;
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.QR_centerSTY{
+  text-align: center
+}
+.QR_centerSTY>span{
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.QR_centerSTY>p{
+  margin-top: 30px;
+}
+.QR_footerSTY{
+  text-align: center;
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.5);
+}
+.fixTop{
+  position: fixed;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 20px 0px
+  rgba(199, 199, 199,1);
+  top: 0px;
+  z-index: 1;
+}
+.fixTopCont{
+  width: 881px;
+  margin: 0 auto;
+  height: 60px;
+  font-size: 30px;
+}
+.fixTopCont>span{
+  line-height: 60px;
+}
+.fixTopCont>p{
+  float: right;
+}
+.fixTopCont>p>.oldPrice{
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 60px;
+  letter-spacing: 0px;
+  color: rgba(56, 56, 56, 0.5);
+}
+.fixTopCont>p>.newPrice{
+  font-family: MicrosoftYaHei;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 60px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.buyBtn{
+  display: inline-block;
+  width: 140px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-image: linear-gradient(90deg,
+  #3bb3c3 0%,
+  #7ac49f 100%),
+  linear-gradient(
+    #262626,
+    #262626);
+  background-blend-mode: normal,
+  normal;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  color: #ffffff;
+  vertical-align: middle;
+  position: relative;
+  top: -2px;
+  cursor: pointer;
+}
+.tooltips{
+  position: relative;
+  z-index: 2;
+}
+.tooltips:hover{
+  z-index:3;
+  background:none; /*没有这个在IE中不可用*/
+}
+.tooltips>span{
+  display: none;
+
+}
+.tooltips:hover>span{ /*span 标签仅在 :hover 状态时显示*/
+  display:block;
+  position:absolute;
+  top: 100%;
+  width:15em;
+  border:1px solid black;
+  background-color:#ffffff;
+  padding: 3px;
+  color:black;
+  line-height: normal;
+  font-size: 14px;
+  font-weight: normal;
+}

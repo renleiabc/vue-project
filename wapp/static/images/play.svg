@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>播放</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="03-开讲" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-5-开讲详情页_音频" transform="translate(-19.000000, -305.000000)">
+            <g id="播放器" transform="translate(0.000000, 291.000000)">
+                <g id="播放" transform="translate(20.000000, 15.000000)">
+                    <circle id="Oval-2" stroke="#AACA13" stroke-width="2" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+                    <path d="M20.2037649,16.686714 L14.0744504,20.5907579 C13.1428136,21.1841605 11.9065249,20.9099675 11.3131223,19.9783307 C11.1086275,19.6572757 11,19.2845303 11,18.9038803 L11,11.0957924 C11,9.9912229 11.8954305,9.0957924 13,9.0957924 C13.3806501,9.0957924 13.7533954,9.20441992 14.0744504,9.40891473 L20.2037649,13.3129587 C21.1354017,13.9063613 21.4095947,15.14265 20.8161921,16.0742868 C20.6592329,16.3207114 20.4501894,16.5297548 20.2037649,16.686714 Z" id="Triangle" fill="#AACA13"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

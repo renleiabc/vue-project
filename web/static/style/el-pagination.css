@@ -1,0 +1,53 @@
+
+.el-pager, .el-pagination.is-background .btn-next, .el-pagination.is-background .btn-prev{
+  padding: 0 10px!important;
+}
+.el-dialog__header{
+  padding: 0!important;
+}
+
+.el-dialog__wrapper{
+  background: rgba(56,56,56,0.6)!important;
+}
+.el-dialog__headerbtn .el-dialog__close{
+  font-size: 20px;
+
+}
+.el-dialog__headerbtn{
+  z-index: 111111!important;
+}
+.el-dialog--center .el-dialog__body{
+  padding: 25px 67px 30px !important;
+}
+.el-radio__input.is-checked .el-radio__inner {
+  border-color: #c7c7c7!important;
+  background: #ffffff!important;
+}
+.el-radio__inner::after{
+  background-color: black!important;
+  width: 10px!important;
+  height: 10px!important;
+}
+.el-radio__inner{
+  width: 18px!important;
+  height: 18px!important;
+}
+.el-radio__inner:hover{
+  border-color: #c7c7c7!important;
+}
+.el-radio__label{
+  padding-left: 19px!important;
+}
+.el-dialog__footer{
+  padding-bottom: 40px!important;
+}
+.el-dialog__footer{
+  padding-left: 67px!important;
+  padding-right: 67px!important;
+}
+.el-input__inner{
+  border-radius:2px!important;
+  height: 45px;
+  line-height: 45px;
+  border: 1px solid #C7C7C7!important;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="39px" viewBox="0 0 32 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>密码</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="个人中心-账户安全" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="默认样式" transform="translate(-552.000000, -546.000000)" fill-rule="nonzero">
+            <g id="账号密码" transform="translate(484.000000, 511.000000)">
+                <g id="密码" transform="translate(68.000000, 35.000000)">
+                    <path d="M28.3076923,14.6358898 L28.3076923,12.1965748 C28.3076923,5.46232316 22.7956044,0 16,0 C9.2043956,0 3.69230769,5.46232316 3.69230769,12.1965748 L3.69230769,14.6358898 L0,14.6358898 L0,39 L32,39 L32,14.6358898 L28.3076923,14.6358898 Z M8,12.0813529 C8,7.62578557 11.5892857,4 16,4 C20.4107143,4 24,7.62578557 24,12.0813529 L24,14.5 L8,14.5 L8,12.0813529 Z M28,35 L4,35 L4,18 L28,18 L28,35 Z" id="Shape" fill="#383838"></path>
+                    <path d="M16,22 C14.8928571,22 14,22.5580357 14,23.25 L14,30.75 C14,31.4419643 14.8928571,32 16,32 C17.1071429,32 18,31.4419643 18,30.75 L18,23.25 C18,22.5580357 17.1071429,22 16,22 Z" id="Shape" fill="#5AC0A1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,140 @@
+/*底部样式*/
+.home-footer {
+  height: 350px;
+  background-color: #262626;
+  width: 100%;
+  position:absolute;
+  bottom:0;
+  left:0;
+}
+
+.footer-box {
+  width: 1180px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.footer-content {
+  width: 100%;
+  height: 185px;
+  margin-top: 50px;
+  color: rgba(255, 254, 254, 0.6);
+  font-size: 12px;
+  padding-bottom: 25px;
+  border-bottom:1px solid rgba(199, 199, 199, 0.2);
+}
+
+.footer-content li {
+  float: left;
+  height: 100%;
+}
+.footer-content li img{
+  display: block;
+}
+
+
+.footer-content li:first-child {
+  display: inline-block;
+  margin-right: 40px;
+  text-align: center;
+}
+
+.footer-content li:first-child img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.footer-sao{
+  text-align: center;
+  width: 100px;
+}
+.footer-sao span{
+  display: block;
+}
+.footer-content li h2{
+  height: 35px;
+  line-height: 35px;
+  color: #fffefe;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.footer-content li:nth-child(2) {
+  width: 32%;
+  margin-right: 80px;
+}
+.footer-content li:nth-child(2) img{
+  width: 96px;
+  height: 31px;
+  color:#fff;
+}
+.footer-content li:nth-child(2) p{
+  height: 45px;
+  margin-top: 20px;
+}
+
+.footer-content li:nth-child(3) {
+  width: 16%;
+  margin-right: 4%;
+}
+.footer-content li:nth-child(3) a{
+ display: inline-block;
+  color: rgba(255, 254, 254, 0.6);
+  font-size: 12px;
+  margin-bottom: 20px;
+  padding-right: 50px;
+}
+.footer-content li:nth-child(3) a:hover{
+ color:#fff;
+}
+.footer-content li:last-child {
+  width: 24%;
+}
+.footer-content li:last-child p{
+  height: 45px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+.footer-content li:last-child a{
+  height: 45px;
+  width: 32%;
+  display: block;
+  float: left;
+  opacity: 0.6;
+  text-align: center;
+  line-height: 45px;
+  color:#fff;
+}
+.footer-content li:last-child a img{
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+.footer-content li:last-child a:nth-child(2){
+  margin-left: 2%;
+}
+.footer-content li:last-child a:nth-child(3){
+  margin-left: 2%;
+}
+.footer-bottom{
+  width: 100%;
+  height: 70px;
+  color: rgba(255, 254, 254, 0.3);
+}
+.footer-bottom-link,.footer-bottom-over{
+text-align: center;
+  height: 20px;
+  line-height: 20px;
+  font-size: 12px;
+}
+.footer-bottom-link{
+  margin-top: 10px;
+}
+.footer-bottom-link a{
+  color: rgba(255, 254, 254, 0.3);
+}
+.footer-bottom-link a:hover{
+  color:#fff;
+}
+

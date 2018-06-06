@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1654px" height="1056px" viewBox="0 0 1654 1056" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FC6484" offset="0%"></stop>
+            <stop stop-color="#FFAD84" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#A1D6FF" offset="0%"></stop>
+            <stop stop-color="#9DECFB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="80.8828125%" y1="19.0703125%" x2="27.828125%" y2="87.015625%" id="linearGradient-3">
+            <stop stop-color="#DBB4EA" offset="0%"></stop>
+            <stop stop-color="#DCA6D7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="申请成为作者（v1.3强制登录且不验证联系方式版）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-1-提交成功" transform="translate(12.000000, 179.000000)">
+            <g id="Group-2-Copy" transform="translate(-22.000000, -190.000000)">
+                <rect id="Rectangle-5" fill="url(#linearGradient-1)" transform="translate(1268.500000, 256.000000) rotate(-45.000000) translate(-1268.500000, -256.000000) " x="1101" y="231" width="335" height="50" rx="25"></rect>
+                <rect id="Rectangle-5-Copy-2" fill="url(#linearGradient-1)" transform="translate(240.118055, 669.118055) rotate(-45.000000) translate(-240.118055, -669.118055) " x="72.6180554" y="644.118055" width="335" height="50" rx="25"></rect>
+                <rect id="Rectangle-5-Copy" fill="url(#linearGradient-2)" transform="translate(136.118055, 941.118055) rotate(-45.000000) translate(-136.118055, -941.118055) " x="-31.3819446" y="916.118055" width="335" height="50" rx="25"></rect>
+                <circle id="Oval" fill="url(#linearGradient-3)" cx="1377" cy="316" r="25"></circle>
+                <rect id="Rectangle-5-Copy-3" fill="url(#linearGradient-2)" transform="translate(1537.500000, 137.000000) rotate(-45.000000) translate(-1537.500000, -137.000000) " x="1370" y="112" width="335" height="50" rx="25"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

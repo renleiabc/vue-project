@@ -1,0 +1,508 @@
+.LectureLists-title{
+  background-color: #fbfbfc;
+  margin-bottom: 100px;
+}
+.LectureLists-title-center,.LectureLists-info,.LectureLists-List,.LectureLists-talk{
+  width: 911px;
+  margin: 0 auto;
+  padding: 50px 0;
+
+}
+.LectureLists-title-center{
+  padding: 0;
+  height: 340px;
+}
+.fixTop{
+  position: fixed;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0px 0px 20px 0px
+  rgba(199, 199, 199,1);
+  top: 0px;
+  z-index: 1;
+}
+.fixTopCont{
+  width: 881px;
+  margin: 0 auto;
+ height: 60px;
+
+}
+.fixTopCont>span{
+  line-height: 60px;
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+
+  letter-spacing: 0px;
+  color: #383838;
+}
+.LectureLists-title-right{
+ float: right;
+  width: 38%;
+  padding: 80px 0px 0 55px;
+}
+.title-text{
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 34px;
+  letter-spacing: 0px;
+  color: #383838;
+
+}
+.titleNum{
+  text-align: left;
+  font-family: MicrosoftYaHei;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: rgba(56, 56, 56, 0.5);
+  margin-top: 20px;
+}
+.titleNum img{
+  position: relative;
+  top: 2px;
+}
+.price{
+  font-family: MicrosoftYaHei;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 34px;
+  letter-spacing: 0px;
+  color: #383838;
+  margin: 30px 0 30px;
+}
+.span_btn{
+  display: inline-block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #383838;
+  position: relative;
+  top: -9px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.vip_link{
+  display: inline-block;
+  width: 112px;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #669934;
+  word-break: break-word;
+  margin-left: 30px;
+  text-align: justify;
+  cursor: pointer;
+}
+
+.QR_titleSTY{
+  display: inline-block;
+  margin-top: 40px;
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.QR_centerSTY{
+  text-align: center
+}
+.QR_centerSTY>span{
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.QR_centerSTY>p{
+  margin-top: 30px;
+}
+.QR_footerSTY{
+  text-align: center;
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.5);
+}
+.info-title{
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #383838;
+  text-align: center;
+}
+.line-Down{
+  color: #aad164;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+.small-title {
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 26px;
+  letter-spacing: 0px;
+  color: #615e5d;
+  border-left: 3px solid #aad164;
+  padding: 0 15px;
+}
+.answer{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  margin-top: 20px;
+  line-height: 30px;
+  letter-spacing: 0px;
+  color: #615e5d;
+}
+.LectureLists-info{
+  padding-bottom: 90px;
+  border-bottom: 1px solid rgba(199, 199, 199, 0.5);
+  clear: both;
+}
+.itemRight{
+  width: 63%;
+ float: right;
+  padding: 0px 0 50px;
+  border-bottom: 1px dashed rgba(199, 199, 199, 1);
+}
+.item-title{
+  font-family: MicrosoftYaHei;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #262626;
+  word-break: break-word;
+  margin: 20px 0 30px;
+
+}
+.item-content{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #615e5d;
+  word-break: break-word;
+  text-align: justify;
+  margin: 0px 0 30px;
+
+}
+
+
+.item-author>img {
+  width: 36px;
+  height: 36px;
+  border-radius: 20px;
+  vertical-align:middle;
+}
+.item-author>span{
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.6);
+  margin-left: 5px;
+
+}
+.reqList{
+  padding: 30px 0;
+}
+.reqList>.item:not(:first-child){
+  margin-top: 30px;
+}
+.reqList>.item:hover .item-title>span{
+  color:#61b977
+}
+.item-title>span{
+  cursor: pointer;
+}
+.playBtn{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-top: -50px;
+  margin-left: -26px;
+}
+.playerBox{
+  display: inline-block;
+  position: relative;
+  top: 34px;
+}
+.LectureLists-outline{
+  background-image: url("/static/images/public/two.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 0 30px;
+  height: 540px;
+}
+.left-arrow,.right-arrow{
+  width: 30px;
+  height: 30px;
+}
+.arrow{
+  text-align: center;
+}
+.arrow>img{
+  cursor: pointer;
+}
+.content{
+  float: left;
+  width: 100%;
+  position: relative;
+  margin-top: 20px;
+}
+.content>div{
+  float: left;
+  position: absolute;
+  left: 50%;
+  margin-left: -450px;
+  width: 900px;
+  overflow: hidden;
+
+}
+.content .content-carousel{
+  float: left;
+
+
+  background: #ffffff;
+  margin-left: 20px;
+  padding: 30px;
+}
+.content .content-carousel p{
+
+}
+.marginLR{
+  margin: 0 30px;
+}
+.carousel-title{
+  width: 200px;
+  word-break: break-word;
+  margin-top: 10px;
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 27px;
+  letter-spacing: 0px;
+  color: #262626;
+  text-align: justify;
+}
+.No{
+  font-family: MicrosoftYaHei;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: rgba(56, 56, 56, 0.6);
+}
+.content-list{
+  margin-top: 20px;
+}
+.content-list>li{
+  font-family: MicrosoftYaHei;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: rgba(56, 56, 56, 0.6);
+
+}
+.content-list>li::before {
+  content: "\02022";
+
+  margin-right: 8px;
+  color: #b3b3b3;
+  font-style: normal;
+  text-decoration: none;
+}
+.inputBox>textarea{
+  width: 100%!important;
+  height: 100px!important;
+  resize: none;
+  overflow-y:auto;
+  outline:none;
+  padding: 15px;
+  border: 1px solid rgba(199, 199, 199,.5);
+  border-radius: 5px;
+  border-bottom-left-radius:0;
+  border-bottom-right-radius:0;
+  box-sizing: border-box;
+}
+.submitBox{
+
+  padding: 5px 0;
+  background: #f7f7f7;
+  border: 1px solid rgba(199, 199, 199,.5);
+  margin-top: -5px;
+  border-top: 1px solid rgba(199, 199, 199,.5);
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
+  position: relative;
+}
+.submitBox>p:first-child{
+  display: inline-block;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #615e5d;
+  line-height: 30px;
+  margin-left: 15px;
+}
+.submitBox>p:last-child{
+  position: absolute;
+  right: 0;
+  display: inline-block;
+  width: 80px;
+  height: 30px;
+  line-height: 30px;
+  background-color: #262626;
+  cursor: pointer;
+  text-align: center;
+  color: #ffffff;
+  margin-right: 15px;
+}
+.comment{
+  margin: 35px 0;
+  float: left;
+
+}
+.comment>p>span{
+  display: inline-block;
+  position: relative;
+  top: -3px;
+  font-size: 16px;
+}
+.talkList{
+  float: left;
+  padding: 0 55px 0px 0px;
+  width: 100%;
+}
+.talkList>div{
+  width: 100%;
+  float: left;
+  border-bottom: 1px dashed  rgba(199, 199, 199, 0.5);
+
+}
+div.talkTitle{
+  width: 100%;
+  float: left;
+}
+.talkList>div>div.talkTitle>p:first-child{
+  float: left;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 0px;
+  color: #615e5d;
+
+}
+.talkList>div>div.talkTitle>p:last-child{
+  float: right;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+
+  letter-spacing: 0px;
+  color: rgba(38, 38, 38, 0.5);
+}
+.talkContent{
+  float: left;
+  width: 100%;
+  margin: 25px 0;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+
+  letter-spacing: 0px;
+  color: #262626;
+}
+.fixTopCont{
+  font-size: 30px;
+
+}
+.fixTopCont>p{
+  float: right;
+}
+.fixTopCont>p>.oldPrice{
+  font-family: MicrosoftYaHei;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 60px;
+  letter-spacing: 0px;
+  color: rgba(56, 56, 56, 0.5);
+}
+.fixTopCont>p>.newPrice{
+  font-family: MicrosoftYaHei;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  line-height: 60px;
+  letter-spacing: 0px;
+  color: #383838;
+}
+.buyBtn{
+  display: inline-block;
+  width: 140px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-image: linear-gradient(90deg,
+  #3bb3c3 0%,
+  #7ac49f 100%),
+  linear-gradient(
+    #262626,
+    #262626);
+  background-blend-mode: normal,
+  normal;
+  font-family: MicrosoftYaHei;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  color: #ffffff;
+  vertical-align: middle;
+  position: relative;
+  top: -2px;
+  cursor: pointer;
+}
+.lectrue-describe{
+  color: #615e5d;
+  font-size: 14px;
+  line-height: 30px;
+  margin-bottom: 15px;
+}

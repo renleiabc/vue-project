@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="60px" viewBox="0 0 375 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>矩形</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="03-开讲" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-5-开讲详情页_音频" transform="translate(0.000000, -291.000000)" fill="#FFFFFF">
+            <g id="播放器" transform="translate(0.000000, 291.000000)">
+                <rect id="Rectangle-5" x="0" y="0" width="375" height="60"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

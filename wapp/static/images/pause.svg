@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>暂停</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="03-开讲" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-5-开讲详情页_音频" transform="translate(-19.000000, -305.000000)">
+            <g id="播放器" transform="translate(0.000000, 291.000000)">
+                <g id="暂停" transform="translate(20.000000, 15.000000)">
+                    <circle id="Oval-2" stroke="#AACA13" stroke-width="2" fill="#FFFFFF" cx="15" cy="15" r="15"></circle>
+                    <g id="Group-5" transform="translate(10.500000, 9.000000)" fill="#AACA13">
+                        <rect id="Rectangle-4" x="0" y="0" width="3" height="12" rx="1.5"></rect>
+                        <rect id="Rectangle-4-Copy" x="6" y="0" width="3" height="12" rx="1.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

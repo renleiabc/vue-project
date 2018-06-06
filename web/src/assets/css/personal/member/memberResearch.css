@@ -1,0 +1,84 @@
+/*我的行研*/
+.member-lecture {
+  width: 900px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.member-details {
+  width: 100%;
+  overflow: hidden;
+}
+.member-details li {
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.member-details li > img {
+  display: block;
+  float: left;
+  width: 86px;
+  height: 113px;
+  background-color: #ededed;
+  border: solid 1px #c7c7c7;
+}
+
+.member-category {
+  float: left;
+  margin-left: 20px;
+}
+
+.member-category h3, .member-category p {
+  height: 30px;
+  line-height: 30px;
+}
+
+.member-category h3:hover {
+  color: #669934;
+  cursor: pointer;
+}
+
+.member-classify {
+  letter-spacing: 30px;
+}
+
+.member-category p {
+  height: 30px;
+  line-height: 30px;
+  color: rgba(38, 38, 38, 0.6);
+}
+
+.member-down {
+  float: right;
+  margin-right: 30px;
+}
+
+.member-down img {
+  width: 60px;
+  display: block;
+  height: 60px;
+  border: 1px solid #669934;
+  border-radius: 30px;
+  margin-left: 30px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.member-left {
+  float: left;
+}
+
+.member-right {
+  float: left;
+}
+
+.member-down p {
+  margin-left: 30px;
+  margin-top: 10px;
+  color: #669934;
+  cursor: pointer;
+}
+.member-down p a{
+  color: #669934;
+}

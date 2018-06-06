@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>手机</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="个人中心-账户安全" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="默认样式" transform="translate(-541.000000, -406.000000)" fill-rule="nonzero">
+            <g id="安全手机" transform="translate(484.000000, 376.000000)">
+                <g id="手机" transform="translate(57.000000, 30.000000)">
+                    <path d="M0,0 L32,0 L32,55 L0,55 L0,0 Z M4,4 L4,51 L28,51 L28,4 L4,4 Z" id="Combined-Shape" fill="#383838"></path>
+                    <path d="M13,47 C13,48.6568542 14.3431458,50 16,50 C17.6568542,50 19,48.6568542 19,47 C19,45.3431458 17.6568542,44 16,44 C14.3431458,44 13,45.3431458 13,47 Z" id="Shape" fill="#FF543A"></path>
+                    <polygon id="Shape" fill="#5AC0A1" transform="translate(37.500000, 21.500000) scale(-1, 1) translate(-37.500000, -21.500000) " points="20 8.04183881 20 30.0072314 47.5062241 29.9723657 55 35 54.9854772 8"></polygon>
+                    <path d="M24,14 L38.2261445,14 L38.2261445,17.83625 L24,17.83625 L24,14 Z M24,21.16375 L50,21.16375 L50,25 L24,25 L24,21.16375 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

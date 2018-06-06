@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="6px" viewBox="0 0 11 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.00024 10.48 0.00024 10.48 5.94589 0 5.94589"></polygon>
+    </defs>
+    <g id="个人中心-账户安全" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编辑样式" transform="translate(-1293.000000, -857.000000)">
+            <g id="安全手机-copy" transform="translate(484.000000, 787.000000)">
+                <g id="Page-1" transform="translate(809.000000, 70.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M4.9746,5.84599 L0.1026,0.60199 C-0.0344,0.46399 -0.0344,0.24099 0.1026,0.10299 C0.2406,-0.03401 0.4616,-0.03401 0.5996,0.10299 L5.2406,5.09399 L9.8816,0.10299 C10.0186,-0.03401 10.2416,-0.03401 10.3776,0.10299 C10.5146,0.24099 10.5146,0.46399 10.3776,0.60199 L5.5056,5.84599 C5.4326,5.91899 5.3356,5.94999 5.2406,5.94599 C5.1446,5.94999 5.0476,5.91899 4.9746,5.84599" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

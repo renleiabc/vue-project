@@ -1,0 +1,91 @@
+/*搜索对话框*/
+.prompt-text {
+  width: 660px;
+  height: 60px;
+  background-color: #fbfbfb;
+  border-radius: 2px;
+  border: solid 1px #c7c7c7;
+  margin: auto;
+  line-height: 60px;
+  margin-bottom: 10px;
+}
+.search-prompt{
+  height: 30px;
+  line-height: 30px;
+  color:red;
+  text-align: center;
+}
+.prompt-text img {
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+  margin-left: 20px;
+}
+.prompt-text input {
+  border: none;
+  outline: none;
+  display: inline-block;
+  width: 80%;
+  height: 30px;
+  line-height: 30px;
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.prompt-content, .prompt-title {
+  width: 660px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.prompt-title {
+  color: #669934;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+  border-bottom: 2px solid #c5df95;
+  padding-bottom: 20px;
+}
+
+.prompt-content li {
+  float: left;
+  width: 25%;
+  height: 30px;
+  line-height: 30px;
+  color: #615e5d;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.prompt-content li:hover {
+  color: #669934;
+}
+
+.nav-left .el-menu--horizontal {
+  border-bottom: none;
+  float: left;
+  height: 42px;
+  line-height: 42px;
+  cursor: pointer;
+}
+
+.nav-left .el-submenu {
+  height: 42px;
+  line-height: 42px;
+}
+
+.nav-left .el-menu--horizontal > .el-submenu .el-submenu__title {
+  height: 30px;
+  line-height: 30px;
+  border-bottom: none;
+  padding-left: 30px;
+  color: rgba(56, 56, 56, 0.5);
+  font-size: 16px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.nav-left .el-menu--horizontal > .el-submenu.is-active .el-submenu__title {
+  border-bottom: none;
+  color: #383838;
+}
